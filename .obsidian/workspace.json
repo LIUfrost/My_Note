@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.编程类/GIT简介/GIT通用开发流程.md",
+                "file": "0.前言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT通用开发流程"
+              "title": "0.前言"
             }
           }
         ]
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b42c4592c11f274d",
@@ -175,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT.md",
+                "file": "1.编程类/GIT简介/GIT通用开发流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GIT 的大纲"
+              "title": "GIT通用开发流程 的大纲"
             }
           },
           {
@@ -213,8 +212,8 @@
                   "copy"
                 ]
               },
-              "icon": "lucide-ghost",
-              "title": "translator-view"
+              "icon": "google_translate",
+              "title": "Google Translate"
             }
           },
           {
@@ -232,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,10 +250,11 @@
   },
   "active": "4d1a82d869e2d86b",
   "lastOpenFiles": [
+    "1.编程类/GIT简介/GIT通用开发流程.md",
+    "0.前言.md",
     "1.编程类/C标准库.md",
     "2.杂记类/培养方案.md",
     "未命名看板.md",
-    "未命名.md",
     "1.编程类/GIT简介/GITHUB部署项目指南.md",
     "2.杂记类",
     "1.编程类",
@@ -270,7 +269,6 @@
     "MY_LEET/LeetStandard/README.md",
     "MY_LEET/LeetStandard/DIRECTORY.md",
     "1.编程类/GIT简介/GIT.md",
-    "1.编程类/GIT简介/GIT通用开发流程.md",
     "1.md",
     "1.编程类/GIT简介/GIT操作指南/GIT.md",
     "1.编程类/GIT简介/GIT操作指南/Git Flow.md",

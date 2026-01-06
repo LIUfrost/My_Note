@@ -54,6 +54,9 @@ tags:
 **II.commit操作**
 `git commit -m "xxxxxx"`:提交暂存区中的所有更改，并且这次提交的信息为”xxxxx“
 
+**III.remote操作**
+`git remote -v`:检查是否配置了远程仓库，若没有，需要先添加一个
+`git remote add origin https://github.com/你的用户名/你的仓库名.git`:在github上创建好仓库后，bash里添加仓库
 **III.push操作**
 `git push`：将目前分支上的所有更改推送至远程仓库（若远仓中没有与之对应的分支，则不推送）
 `git push -u origin xxx`：在远端建立xxx分支，并与同名本地分支关联
