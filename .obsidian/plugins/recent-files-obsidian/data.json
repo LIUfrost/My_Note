@@ -5,16 +5,20 @@
       "path": "3.数学类/数学分析B1.md"
     },
     {
+      "basename": "Latex语法",
+      "path": "2.杂记类/Obisidian/Latex语法.md"
+    },
+    {
+      "basename": "C语言程序入门",
+      "path": "1.编程类/C语言/C语言程序入门.md"
+    },
+    {
       "basename": "Git 工作区、暂存区和版本库",
       "path": "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md"
     },
     {
       "basename": "0.前言",
       "path": "0.前言.md"
-    },
-    {
-      "basename": "Latex语法",
-      "path": "2.杂记类/Obisidian/Latex语法.md"
     },
     {
       "basename": "GIT",

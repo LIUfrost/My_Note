@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff2a2868e96b364b",
+        "id": "ec49a30f8e044704",
         "type": "tabs",
         "children": [
           {
-            "id": "f268d5b946598d26",
+            "id": "b8663e93c39d61c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,12 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f268d5b946598d26",
+  "active": "b8663e93c39d61c0",
   "lastOpenFiles": [
     "3.数学类/数学分析B1.md",
-    "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md",
-    "0.前言.md",
     "2.杂记类/Obisidian/Latex语法.md",
+    "1.编程类/C语言/C语言程序入门.md",
+    "0.前言.md",
+    "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md",
     "2.杂记类/Obisidian/Markdown语法.md",
     "2.杂记类/Obisidian/自定义快捷指令.md",
     "2.杂记类/Obisidian",
@@ -192,7 +193,6 @@
     "3.数学类",
     "1.编程类/C语言/图片/链表_edit_225708402741596.jpg",
     "1.编程类/C语言/SDL库.md",
-    "1.编程类/C语言/C语言程序入门.md",
     "1.编程类/C语言/C标准库.md",
     "1.编程类/C语言/algorithm by coursera.md",
     "1.编程类/C语言/algorithm by coursera II.md",
