@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.数学类/数学分析B1.md",
+                "file": "2.杂记类/摄影/LightRoom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学分析B1"
+              "title": "LightRoom"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "b8663e93c39d61c0",
   "lastOpenFiles": [
-    "2.杂记类/Obisidian/Latex语法.md",
     "3.数学类/数学分析B1.md",
+    "2.杂记类/摄影/LightRoom.md",
+    "2.杂记类/摄影",
+    "2.杂记类/Obisidian/Latex语法.md",
     "1.编程类/C语言/C语言程序入门.md",
     "0.前言.md",
     "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md",
