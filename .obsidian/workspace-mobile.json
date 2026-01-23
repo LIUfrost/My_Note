@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.杂记类/摄影/LightRoom.md",
+                "file": "1.编程类/Python/CS61A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LightRoom"
+              "title": "CS61A"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "b8663e93c39d61c0",
   "lastOpenFiles": [
-    "3.数学类/数学分析B1.md",
     "2.杂记类/摄影/LightRoom.md",
+    "1.编程类/Python/CS61A.md",
+    "1.编程类/Python",
+    "3.数学类/数学分析B1.md",
     "2.杂记类/摄影",
     "2.杂记类/Obisidian/Latex语法.md",
     "1.编程类/C语言/C语言程序入门.md",

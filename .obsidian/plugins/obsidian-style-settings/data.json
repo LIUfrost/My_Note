@@ -32,18 +32,18 @@
   "minimal-style@@h1-color@@light": "#678D58",
   "minimal-style@@h2-color@@light": "#586994",
   "minimal-style@@h3-color@@light": "#7D869C",
-  "minimal-style@@h4-color@@light": "#E2D4B7",
   "minimal-style@@icon-color@@light": "#63C7B2",
   "minimal-style@@icon-color-hover@@light": "#087E8B",
   "minimal-style@@code-background@@light": "#F6E7CB",
   "minimal-style@@code-normal@@light": "#DD9787",
   "minimal-style@@canvas-dot-pattern@@light": "#DD9787",
   "minimal-style@@color-red@@light": "#C14953",
-  "minimal-style@@color-green@@light": "#B3FFB3",
   "minimal-style@@color-cyan@@light": "#E89486",
   "minimal-style@@color-blue@@light": "#2589BD",
   "minimal-style@@color-purple@@light": "#B985C8",
   "minimal-style@@color-pink@@light": "#E1BBC9",
   "minimal-style@@h2-weight": 700,
-  "minimal-style@@h3-weight": 700
+  "minimal-style@@h3-weight": 700,
+  "minimal-style@@color-green@@light": "#83E5BE",
+  "minimal-style@@h4-color@@light": "#EFA48B"
 }
