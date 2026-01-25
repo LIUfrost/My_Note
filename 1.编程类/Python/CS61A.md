@@ -55,10 +55,64 @@ quotient,remainder = divide_exact
 #函数形式参数可以设置默认值
 def divide_exact(n,d=10):   #如果调用的时候只有一个参数，则默认d=10
 	xxxxxx                 #如果调用的时候给了d的值，则d改变
+#函数可以作为一个参数传递给另一个函数
+def cube(k):
+	return pow(k,3)
+def summation(n,term):
+	total, k = 0,1
+	while k <= n:
+		total,k = total + term(k),k + 1  #这里term函数名作为参数
+	return total
+#函数可以作为返回值
+def make_adder(n):
+	def adder(k):
+		return k + n
+	return adder
+add_three = make_adder(3)
+add_three(4)
+>>>7
+make_adder(1)(3)      #make_adder(1):Operater;(2):Operand操作数
 ```
 >[在终端运行Python文件]
 >python main.py：直接运行文件
 >python -i main.py:交互状态下运行文件
+>[科里化]
+>将一个需要多个参数的函数转化为多个只需要一个参数的函数
+>[高阶函数]
+>可以将另一个函数作为参数传递的函数
+### 高阶函数
+- 定义：就是一个接受另一个函数作为参数值或返回一个函数作为返回值或两者都有的函数
+```Python
+#例一
+def make_adder(n):
+	def adder(k):
+		return k + n
+	return adder
+add_three = make_adder(3)
+add_three(4)
+#例二
+def f(x,y):
+	return g(x)
+def g(a):
+	return a + y
+result = f(1,2)
+>>>Error:y is not defined
+```
+>[框架/帧思维]每个函数调用的时候重新生成一个帧
+>			   这个帧的父帧是定义此函数的帧
+>[例一]                                                        [例二]
+
+Global frame                                               Global frame
+	make_adder->func make_adder(n)          f->func f(x,y)
+	add_three->func adder(k)                        g->func g(a)
+F1(parent = G)                                             f(parent = G)
+	n->3                                                            x->1
+	adder->func adder(k)                                y->2
+	Return value->func adder(k)               g(parent = G)
+F2(parent = F1)                                                a->1
+	k->4
+	return value->7
+
 ### 运算符
 ```Python
 2013 / 10
