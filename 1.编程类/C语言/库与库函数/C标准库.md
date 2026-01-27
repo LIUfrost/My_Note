@@ -3,6 +3,11 @@ data: 2025-12-18T21:26:00
 tags:
   - C
 ---
+- fseek(FILE \*fp, int  offset, whence)：用于文件读写时光标移动
+>[whence]
+>SEEK_SET：将指针移到文件开头
+>SEEK_END：将指针移到文件结尾
+>SEEK_CUR：将指针移到当前位置
 ## <assert.h>
 - `assert(expression)`
 	- 用于测试表达式是否为真

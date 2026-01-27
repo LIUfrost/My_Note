@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5014a718e1576001",
+        "id": "f889ae8526f6ef17",
         "type": "tabs",
         "children": [
           {
-            "id": "4d1a82d869e2d86b",
+            "id": "06cce87cc9ca864d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.前言.md",
+                "file": "1.编程类/C语言/库与库函数/Cjson库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.前言"
+              "title": "Cjson库"
             }
           }
         ]
@@ -235,22 +235,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "translate:Open translation view": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d1a82d869e2d86b",
+  "active": "06cce87cc9ca864d",
   "lastOpenFiles": [
+    "1.编程类/C语言/库与库函数/SDL库.md",
+    "1.编程类/C语言/库与库函数/C语言文件操作.md",
+    "1.编程类/C语言/库与库函数/C标准库.md",
+    "1.编程类/C语言/库与库函数",
+    "1.编程类/C语言/库与库函数/Cjson库.md",
+    "1.编程类/C语言/库与库函数/C语言程序入门.md",
+    "1.编程类/C语言/算法.md",
+    "2.杂记类/Obisidian/Markdown语法.md",
+    "2.杂记类/Obisidian/Latex语法.md",
+    "1.编程类/C语言/图片/cJSON库.png",
+    "1.编程类/C语言/algorithm by coursera.md",
+    "1.编程类/C语言/图片/链表_edit_225708402741596.jpg",
+    "1.编程类/C语言/图片/屏幕截图 2026-01-26 211445.png",
+    "Pasted image 20260126211449.png",
     "1.编程类/GIT简介/GIT通用开发流程.md",
+    "未命名.md",
+    "2.杂记类/摄影/LightRoom.md",
+    "2.杂记类/摄影",
+    "1.编程类/Python/CS61A.md",
+    "1.编程类/Python",
     "0.前言.md",
     "1.编程类/C标准库.md",
     "2.杂记类/培养方案.md",
@@ -263,9 +282,6 @@
     "MY_LEET/LeetStandard/src/997.c",
     "MY_LEET/LeetStandard/src/985.c",
     "MY_LEET/LeetStandard/src/98.c",
-    "MY_LEET/LeetStandard/src/979.c",
-    "MY_LEET/LeetStandard/src/977.c",
-    "MY_LEET/LeetStandard/src/965.c",
     "MY_LEET/LeetStandard/README.md",
     "MY_LEET/LeetStandard/DIRECTORY.md",
     "1.编程类/GIT简介/GIT.md",
@@ -276,17 +292,7 @@
     "1.编程类/GIT简介/GIT操作指南/Git 标签.md",
     "1.编程类/GIT简介/Pasted image 20251214100239.png",
     "1.编程类/GIT简介/Pasted image 20251214095833.png",
-    "Excalidraw/Drawing 2025-12-29 17.19.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-29 17.19.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-29 17.19.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-29 17.18.44.excalidraw.md",
-    "1.编程类/GIT简介/GIT操作指南/Git 基本操作.md",
-    "1.编程类/GIT简介/GIT操作指南/Git 分支管理.md",
-    "GIT操作指南/为了吃掉碗中最后一粒米所消耗的能量和这粒米所能提供的能量哪个多？.md",
-    "未命名 1.md",
     "未命名.canvas",
-    "Pasted image 20251212153719.jpg",
-    "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md",
-    "1.编程类/GIT简介/GIT操作指南/Git 创建仓库.md"
+    "Pasted image 20251212153719.jpg"
   ]
 }

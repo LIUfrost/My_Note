@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Cjson库",
+      "path": "1.编程类/C语言/库与库函数/Cjson库.md"
+    },
+    {
+      "basename": "SDL库",
+      "path": "1.编程类/C语言/库与库函数/SDL库.md"
+    },
+    {
+      "basename": "C语言文件操作",
+      "path": "1.编程类/C语言/库与库函数/C语言文件操作.md"
+    },
+    {
+      "basename": "C标准库",
+      "path": "1.编程类/C语言/库与库函数/C标准库.md"
+    },
+    {
+      "basename": "C语言程序入门",
+      "path": "1.编程类/C语言/库与库函数/C语言程序入门.md"
+    },
+    {
+      "basename": "Markdown语法",
+      "path": "2.杂记类/Obisidian/Markdown语法.md"
+    },
+    {
+      "basename": "Latex语法",
+      "path": "2.杂记类/Obisidian/Latex语法.md"
+    },
+    {
+      "basename": "cJSON库",
+      "path": "1.编程类/C语言/图片/cJSON库.png"
+    },
+    {
+      "basename": "algorithm by coursera",
+      "path": "1.编程类/C语言/algorithm by coursera.md"
+    },
+    {
+      "basename": "链表_edit_225708402741596",
+      "path": "1.编程类/C语言/图片/链表_edit_225708402741596.jpg"
+    },
+    {
+      "basename": "GIT通用开发流程",
+      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
+    },
+    {
       "basename": "CS61A",
       "path": "1.编程类/Python/CS61A.md"
     },
@@ -13,14 +57,6 @@
       "path": "3.数学类/数学分析B1.md"
     },
     {
-      "basename": "Latex语法",
-      "path": "2.杂记类/Obisidian/Latex语法.md"
-    },
-    {
-      "basename": "C语言程序入门",
-      "path": "1.编程类/C语言/C语言程序入门.md"
-    },
-    {
       "basename": "Git 工作区、暂存区和版本库",
       "path": "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md"
     },
@@ -31,10 +67,6 @@
     {
       "basename": "GIT",
       "path": "1.编程类/GIT简介/GIT操作指南/GIT.md"
-    },
-    {
-      "basename": "GIT通用开发流程",
-      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
     },
     {
       "basename": "C标准库",
