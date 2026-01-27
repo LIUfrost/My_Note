@@ -112,7 +112,46 @@ F1(parent = G)                                             f(parent = G)
 F2(parent = F1)                                                a->1
 	k->4
 	return value->7
-
+### Lambda Expressions
+- 定义：是输出为函数的表达式
+- 导入：我们知道，函数名字也可以通过另一个名字重新赋值，但仅限于函数已经定义过了，但如果我们要将一个变量赋值为一个新定义的函数呢？
+```python
+x = 10
+square = x * x
+x
+>>>10
+square
+>>>100     #此时square不是一个函数，因为它只是代表x*x的数值
+square = lambda x: x*x
+square
+>>><function <lambda> at xxxxxxxx>
+square(4)
+>>>16
+square(10)
+>>>100     #此时square变成了一个函数
+```
+>[lambda表达式]的基本格式
+>lambda x:  返回值（其中，x作为形式参数传递）
+>lambda表达式会被解释为一个可以以这种方式解释的函数
+>[注意]Lambda表达式只能用于输出单个表达式
+### 科里化
+- 定义：科里化是将多参数函数转换为一个单参数高阶函数的行为，该函数返回一个接受其余参数的函数
+```python
+#第一种形式
+def curry2(f)
+	def g(x)
+		def h(y)
+			return f(x,y)
+		return h
+	return g
+from operator import add
+m = curry2(add)
+add_three = m(3)
+add_three(2)
+>>>5
+#第二种形式
+curry2 = lambda f: lambda x: lambda y:f(x,y)
+```
 ### 运算符
 ```Python
 2013 / 10
