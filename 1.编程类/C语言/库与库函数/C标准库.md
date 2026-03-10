@@ -3,11 +3,16 @@ data: 2025-12-18T21:26:00
 tags:
   - C
 ---
-- fseek(FILE \*fp, int  offset, whence)：用于文件读写时光标移动
+`fseek`(FILE \*fp, int  offset, whence)：用于文件读写时光标移动
 >[whence]
 >SEEK_SET：将指针移到文件开头
 >SEEK_END：将指针移到文件结尾
 >SEEK_CUR：将指针移到当前位置
+
+`qsort`(void \*base, size_t nmemb, size_t size, int (\*compar)(const void* ,const void \*))
+>[参数说明]：base:要指向排序数组的指针；nmemb：数组中元素的个数；
+>size:每个元素的大小(以字节为单位)；compar:比较函数的指针
+>比较函数通常返回1，0，-1
 ## <assert.h>
 - `assert(expression)`
 	- 用于测试表达式是否为真
