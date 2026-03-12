@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "C语言文件调试",
+      "path": "1.编程类/C语言/C语言文件调试.md"
+    },
+    {
       "basename": "Latex语法",
       "path": "2.杂记类/Obisidian/Latex语法.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "C标准库",
       "path": "1.编程类/C语言/库与库函数/C标准库.md"
-    },
-    {
-      "basename": "文件调试",
-      "path": "1.编程类/C语言/文件调试.md"
     },
     {
       "basename": "CS61A",
