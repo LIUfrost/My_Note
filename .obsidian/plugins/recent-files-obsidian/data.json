@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "GIT通用开发流程",
+      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
+    },
+    {
       "basename": "模块程序设计",
       "path": "1.编程类/C语言/模块程序设计.md"
     },
     {
-      "basename": "广度优先搜素",
-      "path": "1.编程类/C语言/算法视频/广度优先搜素.mp4"
-    },
-    {
       "basename": "C语言文件调试",
       "path": "1.编程类/C语言/C语言文件调试.md"
-    },
-    {
-      "basename": "二进制堆",
-      "path": "1.编程类/C语言/算法视频/二进制堆.mp4"
     },
     {
       "basename": "algorithm by coursera",
@@ -63,10 +59,6 @@
     {
       "basename": "GIT",
       "path": "1.编程类/GIT简介/GIT操作指南/GIT.md"
-    },
-    {
-      "basename": "GIT通用开发流程",
-      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
     },
     {
       "basename": "C标准库",
