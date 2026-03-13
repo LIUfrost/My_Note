@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "GIT通用开发流程",
-      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
-    },
-    {
       "basename": "模块程序设计",
       "path": "1.编程类/C语言/模块程序设计.md"
+    },
+    {
+      "basename": "CS61A",
+      "path": "1.编程类/Python/CS61A.md"
+    },
+    {
+      "basename": "Pasted image 20260126211449",
+      "path": "Pasted image 20260126211449.png"
+    },
+    {
+      "basename": "GIT通用开发流程",
+      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
     },
     {
       "basename": "C语言文件调试",
@@ -39,10 +47,6 @@
     {
       "basename": "C标准库",
       "path": "1.编程类/C语言/库与库函数/C标准库.md"
-    },
-    {
-      "basename": "CS61A",
-      "path": "1.编程类/Python/CS61A.md"
     },
     {
       "basename": "0.前言",

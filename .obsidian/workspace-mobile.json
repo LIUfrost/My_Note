@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "db593a5bdca73984",
+        "id": "a078116b997e2480",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f4150f24abfd45",
+            "id": "94c5ab727cd416bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.数学类/数学分析B2.md",
+                "file": "1.编程类/C语言/模块程序设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学分析B2"
-            }
-          },
-          {
-            "id": "ad145b9de35733ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.杂记类/Obisidian/Latex语法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Latex语法"
-            }
-          },
-          {
-            "id": "66ea3715380c8a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.数学类/代数结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "代数结构"
+              "title": "模块程序设计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,19 +181,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad145b9de35733ae",
+  "active": "94c5ab727cd416bf",
   "lastOpenFiles": [
+    "1.编程类/Python/CS61A.md",
+    "Pasted image 20260126211449.png",
+    "1.编程类/C语言/模块程序设计.md",
+    "1.编程类/C语言/C语言文件调试.md",
     "3.数学类/代数结构.md",
-    "3.数学类/数学分析B2.md",
     "2.杂记类/Obisidian/Latex语法.md",
+    "1.编程类/C语言/algorithm by coursera.md",
+    "1.编程类/C语言/algorithm by coursera II.md",
+    "3.数学类/数学分析B2.md",
     "3.数学类/数学分析B1.md",
     "1.编程类/C语言/库与库函数/C标准库.md",
     "1.编程类/C语言/文件调试.md",
-    "1.编程类/Python/CS61A.md",
-    "1.编程类/C语言/algorithm by coursera II.md",
     "0.前言.md",
     "掐头去尾.md",
-    "Pasted image 20260126211449.png",
     "1.编程类/C语言/库与库函数/C语言文件操作.md",
     "1.编程类/C语言/库与库函数/Cjson库.md",
     "/Pasted image 20260126211449.png",
@@ -245,12 +219,8 @@
     "2.杂记类/摄影",
     "1.编程类/C语言/C语言程序入门.md",
     "1.编程类/GIT简介/GIT操作指南/Git 工作区、暂存区和版本库.md",
-    "2.杂记类/Obisidian/Markdown语法.md",
-    "2.杂记类/Obisidian/自定义快捷指令.md",
     "2.杂记类/Obisidian",
-    "1.编程类/GIT简介/GIT操作指南/GIT.md",
     "未命名.canvas",
-    "未命名.md",
     "3.数学类",
     "1.编程类/C语言/图片/链表_edit_225708402741596.jpg",
     "1.编程类/C语言/图片"
