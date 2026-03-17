@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "C标准库",
+      "path": "1.编程类/C语言/库与库函数/C标准库.md"
+    },
+    {
+      "basename": "链表_edit_225708402741596",
+      "path": "1.编程类/C语言/图片/链表_edit_225708402741596.jpg"
+    },
+    {
+      "basename": "cJSON库",
+      "path": "1.编程类/C语言/图片/cJSON库.png"
+    },
+    {
+      "basename": "SDL库",
+      "path": "1.编程类/C语言/库与库函数/SDL库.md"
+    },
+    {
       "basename": "模块程序设计",
       "path": "1.编程类/C语言/模块程序设计.md"
+    },
+    {
+      "basename": "C语言文件调试",
+      "path": "1.编程类/C语言/C语言文件调试.md"
+    },
+    {
+      "basename": "Latex语法",
+      "path": "2.杂记类/Obisidian/Latex语法.md"
     },
     {
       "basename": "CS61A",
@@ -17,20 +41,12 @@
       "path": "1.编程类/GIT简介/GIT通用开发流程.md"
     },
     {
-      "basename": "C语言文件调试",
-      "path": "1.编程类/C语言/C语言文件调试.md"
-    },
-    {
       "basename": "algorithm by coursera",
       "path": "1.编程类/C语言/algorithm by coursera.md"
     },
     {
       "basename": "algorithm by coursera II",
       "path": "1.编程类/C语言/algorithm by coursera II.md"
-    },
-    {
-      "basename": "Latex语法",
-      "path": "2.杂记类/Obisidian/Latex语法.md"
     },
     {
       "basename": "代数结构",
@@ -43,10 +59,6 @@
     {
       "basename": "数学分析B1",
       "path": "3.数学类/数学分析B1.md"
-    },
-    {
-      "basename": "C标准库",
-      "path": "1.编程类/C语言/库与库函数/C标准库.md"
     },
     {
       "basename": "0.前言",
