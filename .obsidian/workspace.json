@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "75435152694c3221",
+        "id": "da850e326290dc43",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce1df421a1183f6",
+            "id": "33042590602a11f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.杂记类/Obisidian/Latex语法.md",
+                "file": "1.编程类/C语言/算法/背包问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex语法"
+              "title": "背包问题"
             }
           },
           {
-            "id": "bacd508a9d0fa498",
+            "id": "b137c3a13ef9cbf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.编程类/C语言/库与库函数/C标准库.md",
+                "file": "1.编程类/C语言/算法/BFS与DFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C标准库"
+              "title": "BFS与DFS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
             "state": {
               "type": "translator-view",
               "state": {
-                "language_from": "auto",
-                "language_to": "zh-cn",
-                "translation_service": "google_translate",
+                "language_from": "zh",
+                "language_to": "zh",
+                "translation_service": "deepl",
                 "auto_translate": false,
                 "apply_glossary": false,
-                "view_mode": 0,
+                "view_mode": 2,
                 "filter_mode": 0,
                 "show_attribution": false,
                 "top_buttons": [
@@ -227,8 +226,8 @@
                   "copy"
                 ]
               },
-              "icon": "google_translate",
-              "title": "Google Translate"
+              "icon": "deepl",
+              "title": "DeepL"
             }
           },
           {
@@ -263,47 +262,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20f1b4f63e2c520b",
+  "active": "33042590602a11f3",
   "lastOpenFiles": [
-    "1.编程类/C语言/库与库函数/位运算.md",
+    "1.编程类/C语言/算法/BFS与DFS.md",
+    "1.编程类/C语言/库与库函数/C语言常用函数.md",
+    "1.编程类/C语言/算法/algorithm by coursera II.md",
+    "1.编程类/C语言/算法/背包问题.md",
+    "1.编程类/C语言/库与库函数/SDL库.md",
+    "1.编程类/C语言/库与库函数/C语言文件操作.md",
+    "1.编程类/C语言/库与库函数/C语言程序入门.md",
     "1.编程类/C语言/库与库函数/C标准库.md",
+    "1.编程类/C语言/库与库函数/Cjson库.md",
+    "1.编程类/C语言/算法/algorithm by coursera.md",
+    "1.编程类/C语言/系统程序与调试/C语言文件调试.md",
+    "1.编程类/C语言/算法",
+    "1.编程类/C语言/未命名.md",
+    "1.编程类/C语言/系统程序与调试/GDB使用简略.md",
+    "1.编程类/C语言/系统程序与调试/系统程序设计.md",
+    "1.编程类/C语言/系统程序与调试",
+    "1.编程类/C语言/库与库函数/C语言常用函数.pdf",
+    "1.编程类/C语言/库与库函数/C语言文件操作.pdf",
+    "2.杂记类/typst入门.pdf",
+    "2.杂记类/Obisidian/Latex语法.md",
+    "C标准库.pdf",
+    "1.编程类/C语言/库与库函数/位运算.md",
     "1.编程类/C语言/图片/链表_edit_225708402741596.jpg",
     "1.编程类/C语言/图片/cJSON库.png",
-    "1.编程类/C语言/库与库函数/SDL库.md",
-    "1.编程类/C语言/模块程序设计.md",
-    "1.编程类/C语言/C语言文件调试.md",
-    "2.杂记类/Obisidian/Latex语法.md",
     "1.编程类/GIT简介/GIT通用开发流程.md",
     "1.编程类/C语言/算法视频/广度优先搜素.mp4",
-    "1.编程类/C语言/未命名",
     "1.编程类/C语言/算法视频",
     "1.编程类/C语言/算法视频/二进制堆.mp4",
     "1.编程类/C语言/算法视频/深度优先搜索.mp4",
-    "1.编程类/C语言/index.mp4",
-    "1.编程类/C语言/index (1).mp4",
-    "1.编程类/C语言/algorithm by coursera.md",
-    "1.编程类/C语言/algorithm by coursera II.md",
     "3.数学类/数学分析B2.md",
     "3.数学类/代数结构.md",
-    "1.编程类/C语言/库与库函数/Cjson库.md",
-    "1.编程类/C语言/库与库函数/C语言文件操作.md",
-    "1.编程类/C语言/库与库函数",
-    "1.编程类/C语言/库与库函数/C语言程序入门.md",
     "1.编程类/C语言/算法.md",
     "2.杂记类/Obisidian/Markdown语法.md",
     "1.编程类/C语言/图片/屏幕截图 2026-01-26 211445.png",
     "Pasted image 20260126211449.png",
     "未命名.md",
     "2.杂记类/摄影/LightRoom.md",
-    "2.杂记类/摄影",
     "1.编程类/Python/CS61A.md",
-    "1.编程类/Python",
     "0.前言.md",
     "1.编程类/C标准库.md",
-    "2.杂记类/培养方案.md",
-    "未命名看板.md",
-    "1.编程类/GIT简介/GITHUB部署项目指南.md",
-    "MY_LEET/LeetStandard/README.md",
     "1.编程类/GIT简介/Pasted image 20251214100239.png",
     "1.编程类/GIT简介/Pasted image 20251214095833.png",
     "未命名.canvas",

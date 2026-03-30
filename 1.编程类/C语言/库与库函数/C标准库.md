@@ -3,17 +3,50 @@ data: 2025-12-18T21:26:00
 tags:
   - C
 ---
-## 常用函数
-`fseek`(FILE \*fp, int  offset, whence)：用于文件读写时光标移动
->[whence]
->SEEK_SET：将指针移到文件开头
->SEEK_END：将指针移到文件结尾
->SEEK_CUR：将指针移到当前位置
-
-`qsort`(void \*base, size_t nmemb, size_t size, int (\*compar)(const void* ,const void \*))
->[参数说明]：base:要指向排序数组的指针；nmemb：数组中元素的个数；
->size:每个元素的大小(以字节为单位)；compar:比较函数的指针
->比较函数通常返回1，0，-1
+## **长度修饰符**
+### **整数类型**
+- `%d` - 十进制有符号整数
+- `%i` - 十进制有符号整数（与%d基本相同）
+- `%u` - 十进制无符号整数
+- `%o` - 八进制无符号整数
+- `%x` - 十六进制无符号整数（小写字母a-f）
+- `%X` - 十六进制无符号整数（大写字母A-F）
+### **short 类型**
+- `%hd` - short int（十进制）
+- `%hu` - unsigned short int（十进制）
+- `%ho` - short int（八进制）
+- `%hx` - short int（十六进制）
+### **long 类型**
+- `%ld` - long int（十进制）
+- `%li` - long int（十进制）
+- `%lu` - unsigned long int（十进制）
+- `%lo` - long int（八进制）
+- `%lx` - long int（十六进制）
+- `%lX` - long int（十六进制大写）
+### **long long 类型（C99）**
+- `%lld` - long long int（十进制）
+- `%lli` - long long int（十进制）
+- `%llu` - unsigned long long int（十进制）
+- `%llo` - long long int（八进制）
+- `%llx` - long long int（十六进制）
+### **size_t 类型**
+- `%zd` - size_t（十进制）
+- `%zu` - size_t（无符号十进制）
+### **ptrdiff_t 类型**
+- `%td` - ptrdiff_t（十进制）
+### **intmax_t 类型**
+- `%jd` - intmax_t（十进制）
+- `%ju` - uintmax_t（十进制）
+```C
+int num = 123;
+printf("%d", num);      // 输出：123
+printf("%5d", num);     // 输出：  123（宽度5，右对齐）
+printf("%-5d", num);    // 输出：123  （宽度5，左对齐）
+printf("%05d", num);    // 输出：00123（前补零）
+printf("%x", 255);      // 输出：ff
+printf("%X", 255);      // 输出：FF
+printf("%.2f", 3.1415); // 输出：3.14（保留两位小数）
+```
 ## 位运算
 ### &(按位与)
 ==**如果两个操作数对应的二进制位数都为1，该位运算结果为1，否则为0**==
