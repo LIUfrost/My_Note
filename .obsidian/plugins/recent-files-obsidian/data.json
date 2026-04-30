@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "数学分析B1",
+      "path": "3.数学类/数学分析B1.md"
+    },
+    {
+      "basename": "菜鸟教程",
+      "path": "1.编程类/Python/菜鸟教程.md"
+    },
+    {
+      "basename": "CS61A",
+      "path": "1.编程类/Python/CS61A.md"
+    },
+    {
+      "basename": "数学分析B2",
+      "path": "3.数学类/数学分析B2.md"
+    },
+    {
+      "basename": "GDB使用简略",
+      "path": "1.编程类/C语言/系统程序与调试/GDB使用简略.md"
+    },
+    {
+      "basename": "SDL库",
+      "path": "1.编程类/C语言/库与库函数/SDL库.md"
+    },
+    {
+      "basename": "C标准库",
+      "path": "1.编程类/C语言/库与库函数/C标准库.md"
+    },
+    {
       "basename": "背包问题",
       "path": "1.编程类/C语言/算法/背包问题.md"
     },
@@ -17,20 +45,12 @@
       "path": "1.编程类/C语言/算法/algorithm by coursera II.md"
     },
     {
-      "basename": "SDL库",
-      "path": "1.编程类/C语言/库与库函数/SDL库.md"
-    },
-    {
       "basename": "C语言文件操作",
       "path": "1.编程类/C语言/库与库函数/C语言文件操作.md"
     },
     {
       "basename": "C语言程序入门",
       "path": "1.编程类/C语言/库与库函数/C语言程序入门.md"
-    },
-    {
-      "basename": "C标准库",
-      "path": "1.编程类/C语言/库与库函数/C标准库.md"
     },
     {
       "basename": "Cjson库",
@@ -43,10 +63,6 @@
     {
       "basename": "C语言文件调试",
       "path": "1.编程类/C语言/系统程序与调试/C语言文件调试.md"
-    },
-    {
-      "basename": "GDB使用简略",
-      "path": "1.编程类/C语言/系统程序与调试/GDB使用简略.md"
     },
     {
       "basename": "系统程序设计",
@@ -69,10 +85,6 @@
       "path": "1.编程类/C语言/图片/cJSON库.png"
     },
     {
-      "basename": "CS61A",
-      "path": "1.编程类/Python/CS61A.md"
-    },
-    {
       "basename": "Pasted image 20260126211449",
       "path": "Pasted image 20260126211449.png"
     },
@@ -83,14 +95,6 @@
     {
       "basename": "代数结构",
       "path": "3.数学类/代数结构.md"
-    },
-    {
-      "basename": "数学分析B2",
-      "path": "3.数学类/数学分析B2.md"
-    },
-    {
-      "basename": "数学分析B1",
-      "path": "3.数学类/数学分析B1.md"
     },
     {
       "basename": "0.前言",
