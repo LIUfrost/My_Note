@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"331fdadca5d090c6","x":-480,"y":-160,"width":280,"height":100,"color":"5","type":"text","text":"2012   AlexNet\n深层CNN+ReLU+Dropout\n首次在ImageNet碾压传统方法\n"},
+		{"id":"5c58587e40bf9a26","x":-60,"y":-160,"width":240,"height":100,"color":"5","type":"text","text":"2014 VGGNet\n3\\*3小卷积堆叠\n医学图像特征提取更细腻"},
+		{"id":"486b807eecb3446f","x":280,"y":-160,"width":260,"height":100,"color":"5","type":"text","text":"2015  U-Net\n编码 - 解码 + 跳连\n像素级分割，肺结节分割标杆"},
+		{"id":"229c1e422149eb26","x":-780,"y":-160,"width":250,"height":100,"color":"4","type":"text","text":"年份  里程碑模型\n关键创新\n医学影像突破"},
+		{"id":"8d93a4a9fe94b076","x":315,"y":100,"width":250,"height":100,"color":"5","type":"text","text":"2017  ResNet\n残差连接\n解决深层网络退化，肺结节分类准确率上升"},
+		{"id":"a5b1255024affecb","x":-60,"y":100,"width":250,"height":100,"color":"5","type":"text","text":"2017  GAN\n对抗训练\n数据增强（生成伪CT)，去噪\n"},
+		{"id":"b507f9da02cdcdd3","x":-450,"y":100,"width":250,"height":100,"color":"5","type":"text","text":"2018  DenseNet\n密集连接\n特征复用，减少参数"},
+		{"id":"fab96664b4846b5d","x":-785,"y":318,"width":270,"height":100,"color":"5","type":"text","text":"2021  Swin Transformer\n窗口自注意力\n计算复杂度下降，3D CT可行"},
+		{"id":"e68c65ffd11ec678","x":-425,"y":318,"width":250,"height":100,"color":"5","type":"text","text":"2023  SAM\n提示驱动通用分割\n零样本医学分割"},
+		{"id":"2775f2a4d5dff5c7","x":-60,"y":313,"width":300,"height":105,"color":"5","type":"text","text":"2024  Mamba\n状态空间模型（SSM）\n长序列建模，处理高分辨率眼底图"},
+		{"id":"f6ec63c45a07f0a1","x":315,"y":313,"width":250,"height":105,"color":"5","type":"text","text":"2025  Med - STD\n空间 - 时序解耦\n肺结节随访倍增时间预测"},
+		{"id":"f345254c6242d87a","x":-795,"y":100,"width":280,"height":100,"color":"5","type":"text","text":"2020  Vision Transformer(VIT)\n自注意力\n全局建模，眼底多病灶关联"}
+	],
+	"edges":[
+		{"id":"7526aff07287b89c","fromNode":"331fdadca5d090c6","fromSide":"right","toNode":"5c58587e40bf9a26","toSide":"left"},
+		{"id":"ca8793a482c8ef4f","fromNode":"5c58587e40bf9a26","fromSide":"right","toNode":"486b807eecb3446f","toSide":"left"},
+		{"id":"d5af40c0d33a0161","fromNode":"486b807eecb3446f","fromSide":"right","toNode":"8d93a4a9fe94b076","toSide":"right"},
+		{"id":"543d939a4b3a9e4c","fromNode":"229c1e422149eb26","fromSide":"right","toNode":"331fdadca5d090c6","toSide":"left"},
+		{"id":"6a1a5507d1c512d9","fromNode":"8d93a4a9fe94b076","fromSide":"left","toNode":"a5b1255024affecb","toSide":"right"},
+		{"id":"459df0d2814f872f","fromNode":"a5b1255024affecb","fromSide":"left","toNode":"b507f9da02cdcdd3","toSide":"right"},
+		{"id":"75bd9993af1c2c80","fromNode":"b507f9da02cdcdd3","fromSide":"left","toNode":"f345254c6242d87a","toSide":"right"},
+		{"id":"ab9092c13c14badc","fromNode":"f345254c6242d87a","fromSide":"left","toNode":"fab96664b4846b5d","toSide":"left"},
+		{"id":"1e66b5ffe12e89b9","fromNode":"fab96664b4846b5d","fromSide":"right","toNode":"e68c65ffd11ec678","toSide":"left"},
+		{"id":"f83e4d263d0ca665","fromNode":"2775f2a4d5dff5c7","fromSide":"right","toNode":"f6ec63c45a07f0a1","toSide":"left"},
+		{"id":"a5440d19b33f873b","fromNode":"e68c65ffd11ec678","fromSide":"right","toNode":"2775f2a4d5dff5c7","toSide":"left"}
+	]
+}

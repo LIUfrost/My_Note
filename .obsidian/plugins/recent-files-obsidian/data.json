@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "VGGnet",
+      "path": "2.杂记类/科学与社会/VGGnet.pdf"
+    },
+    {
+      "basename": "ALexnet",
+      "path": "2.杂记类/科学与社会/ALexnet.pdf"
+    },
+    {
+      "basename": "GIT通用开发流程",
+      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
+    },
+    {
+      "basename": "CS61A",
+      "path": "1.编程类/Python/CS61A.md"
+    },
+    {
       "basename": "数学分析B1",
       "path": "3.数学类/数学分析B1.md"
     },
     {
       "basename": "菜鸟教程",
       "path": "1.编程类/Python/菜鸟教程.md"
-    },
-    {
-      "basename": "CS61A",
-      "path": "1.编程类/Python/CS61A.md"
     },
     {
       "basename": "数学分析B2",
@@ -87,10 +99,6 @@
     {
       "basename": "Pasted image 20260126211449",
       "path": "Pasted image 20260126211449.png"
-    },
-    {
-      "basename": "GIT通用开发流程",
-      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
     },
     {
       "basename": "代数结构",

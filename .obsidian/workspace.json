@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da850e326290dc43",
+        "id": "45643e051a37256b",
         "type": "tabs",
         "children": [
           {
-            "id": "33042590602a11f3",
+            "id": "2e3ba9234f719fb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1.编程类/C语言/算法/背包问题.md",
-                "mode": "source",
-                "source": false
+                "file": "2.杂记类/科学与社会/VGGnet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "背包问题"
-            }
-          },
-          {
-            "id": "b137c3a13ef9cbf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.编程类/C语言/算法/BFS与DFS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BFS与DFS"
+              "icon": "lucide-file-text",
+              "title": "VGGnet"
             }
           }
         ]
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.编程类/GIT简介/GIT通用开发流程.md",
+                "file": "2.杂记类/typst入门.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "GIT通用开发流程 的反向链接列表"
+              "title": "typst入门 的反向链接列表"
             }
           },
           {
@@ -145,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.编程类/GIT简介/GIT通用开发流程.md",
+                "file": "2.杂记类/typst入门.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GIT通用开发流程 的出链列表"
+              "title": "typst入门 的出链列表"
             }
           },
           {
@@ -188,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.编程类/GIT简介/GIT通用开发流程.md",
+                "file": "2.杂记类/科学与社会/VGGnet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GIT通用开发流程 的大纲"
+              "title": "VGGnet 的大纲"
             }
           },
           {
@@ -262,12 +246,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33042590602a11f3",
+  "active": "2e3ba9234f719fb2",
   "lastOpenFiles": [
+    "2.杂记类/科学与社会/ALexnet.pdf",
+    "1.编程类/GIT简介/GIT通用开发流程.md",
+    "1.编程类/Python/CS61A.md",
+    "2.杂记类/科学与社会/VGGnet.pdf",
+    "2.杂记类/科学与社会/问题.md",
+    "2.杂记类/科学与社会/未命名.canvas",
+    "2.杂记类/科学与社会/算法时间表.png",
+    "2.杂记类/科学与社会/算法时间表.canvas",
+    "2.杂记类/科学与社会/肺结节part技术发展脉络梳理.md",
+    "2.杂记类/科学与社会",
+    "2.杂记类/新建文件夹",
     "1.编程类/C语言/算法/BFS与DFS.md",
+    "1.编程类/Python/菜鸟教程.md",
+    "Excalidraw/Drawing 2026-04-16 16.06.32.excalidraw.md",
+    "Excalidraw",
+    "2.杂记类/typst入门.pdf",
+    "1.编程类/C语言/算法/背包问题.md",
     "1.编程类/C语言/库与库函数/C语言常用函数.md",
     "1.编程类/C语言/算法/algorithm by coursera II.md",
-    "1.编程类/C语言/算法/背包问题.md",
     "1.编程类/C语言/库与库函数/SDL库.md",
     "1.编程类/C语言/库与库函数/C语言文件操作.md",
     "1.编程类/C语言/库与库函数/C语言程序入门.md",
@@ -282,28 +281,15 @@
     "1.编程类/C语言/系统程序与调试",
     "1.编程类/C语言/库与库函数/C语言常用函数.pdf",
     "1.编程类/C语言/库与库函数/C语言文件操作.pdf",
-    "2.杂记类/typst入门.pdf",
     "2.杂记类/Obisidian/Latex语法.md",
-    "C标准库.pdf",
     "1.编程类/C语言/库与库函数/位运算.md",
     "1.编程类/C语言/图片/链表_edit_225708402741596.jpg",
     "1.编程类/C语言/图片/cJSON库.png",
-    "1.编程类/GIT简介/GIT通用开发流程.md",
-    "1.编程类/C语言/算法视频/广度优先搜素.mp4",
-    "1.编程类/C语言/算法视频",
-    "1.编程类/C语言/算法视频/二进制堆.mp4",
-    "1.编程类/C语言/算法视频/深度优先搜索.mp4",
     "3.数学类/数学分析B2.md",
     "3.数学类/代数结构.md",
     "1.编程类/C语言/算法.md",
-    "2.杂记类/Obisidian/Markdown语法.md",
     "1.编程类/C语言/图片/屏幕截图 2026-01-26 211445.png",
     "Pasted image 20260126211449.png",
-    "未命名.md",
-    "2.杂记类/摄影/LightRoom.md",
-    "1.编程类/Python/CS61A.md",
-    "0.前言.md",
-    "1.编程类/C标准库.md",
     "1.编程类/GIT简介/Pasted image 20251214100239.png",
     "1.编程类/GIT简介/Pasted image 20251214095833.png",
     "未命名.canvas",

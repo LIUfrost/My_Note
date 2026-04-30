@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"b81294f9e994f0fd","x":-440,"y":-260,"width":200,"height":60,"type":"text","text":"图像识别的一般流程"},
+		{"id":"b9820561bb7def4d","x":-450,"y":-140,"width":220,"height":60,"type":"text","text":"数据增强(第一步正则化)"},
+		{"id":"1b80b1b80defc603","x":-395,"y":-60,"width":110,"height":60,"type":"text","text":"卷积层一"},
+		{"id":"ee59fc2de70f1842","x":-455,"y":40,"width":230,"height":60,"type":"text","text":"激活（ReLU,SELU,Mish)"},
+		{"id":"86034265c25cb9b4","x":-450,"y":120,"width":220,"height":60,"type":"text","text":"批归一化(第二步正则化)"},
+		{"id":"b58939ac963b18d9","x":-387,"y":200,"width":95,"height":50,"type":"text","text":"池化"},
+		{"id":"482b71900dc9e604","x":-140,"y":-260,"width":260,"height":60,"type":"text","text":"重复卷积-激活-批归一化-池化"},
+		{"id":"8ce4ed4397a27cea","x":-57,"y":-170,"width":95,"height":50,"type":"text","text":"展平"},
+		{"id":"097d1a74b501de99","x":-64,"y":-105,"width":110,"height":50,"type":"text","text":"全连接层"},
+		{"id":"8361a12ce022064e","x":-133,"y":-25,"width":250,"height":50,"type":"text","text":"激活（ReLU,SELU,Mish）"},
+		{"id":"07dc7cc8b116118e","x":-123,"y":50,"width":230,"height":50,"type":"text","text":"Dropout(第三步正则化)"},
+		{"id":"6aadc4d7884f43f6","x":-55,"y":120,"width":95,"height":50,"type":"text","text":"输出层"},
+		{"id":"b3dbbd98bf3b66d2","x":-122,"y":200,"width":230,"height":50,"type":"text","text":"权重衰减(第四步正则化)"},
+		{"id":"28a08e8c58da86e5","x":-62,"y":280,"width":110,"height":50,"type":"text","text":"Softmax"}
+	],
+	"edges":[
+		{"id":"ae749ce33a6bf049","fromNode":"b81294f9e994f0fd","fromSide":"bottom","toNode":"b9820561bb7def4d","toSide":"top"},
+		{"id":"c40c6efb4c7b746c","fromNode":"b9820561bb7def4d","fromSide":"bottom","toNode":"1b80b1b80defc603","toSide":"top"},
+		{"id":"f8b0ed8a71f23760","fromNode":"1b80b1b80defc603","fromSide":"bottom","toNode":"ee59fc2de70f1842","toSide":"top"},
+		{"id":"efb5813bb209bb00","fromNode":"ee59fc2de70f1842","fromSide":"bottom","toNode":"86034265c25cb9b4","toSide":"top"},
+		{"id":"f2a79289668ba028","fromNode":"86034265c25cb9b4","fromSide":"bottom","toNode":"b58939ac963b18d9","toSide":"top"},
+		{"id":"24dfcb1ad7c3873d","fromNode":"b58939ac963b18d9","fromSide":"right","toNode":"482b71900dc9e604","toSide":"left"},
+		{"id":"871e8386c5c33e0e","fromNode":"482b71900dc9e604","fromSide":"bottom","toNode":"8ce4ed4397a27cea","toSide":"top"},
+		{"id":"bb8f8cd5a3e5bf88","fromNode":"8ce4ed4397a27cea","fromSide":"bottom","toNode":"097d1a74b501de99","toSide":"top"},
+		{"id":"90259940295a2856","fromNode":"097d1a74b501de99","fromSide":"bottom","toNode":"8361a12ce022064e","toSide":"top"},
+		{"id":"8c32040ee1600ad7","fromNode":"8361a12ce022064e","fromSide":"bottom","toNode":"07dc7cc8b116118e","toSide":"top"},
+		{"id":"ef84a1d58b11d8a0","fromNode":"07dc7cc8b116118e","fromSide":"bottom","toNode":"6aadc4d7884f43f6","toSide":"top"},
+		{"id":"ba91b614efe3960e","fromNode":"6aadc4d7884f43f6","fromSide":"bottom","toNode":"b3dbbd98bf3b66d2","toSide":"top"},
+		{"id":"748c2ffda3611a95","fromNode":"b3dbbd98bf3b66d2","fromSide":"bottom","toNode":"28a08e8c58da86e5","toSide":"top"}
+	]
+}
