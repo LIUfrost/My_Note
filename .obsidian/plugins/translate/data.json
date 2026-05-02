@@ -2,11 +2,11 @@
   "version": "1.4.5",
   "display_language": "display",
   "filter_mode": "0",
-  "translation_service": "google_translate",
+  "translation_service": "fanyi_baidu",
   "security_setting": "none",
   "switch_button_action": "switch-both",
-  "translation_command_action": "replace",
-  "apply_glossary": false,
+  "translation_command_action": "below",
+  "apply_glossary": true,
   "local_glossary": false,
   "glossary_preference": "online",
   "case_insensitive_glossary": false,
@@ -30,8 +30,10 @@
   "hide_attribution_default": false,
   "default_source_language": "auto",
   "target_language_preference": "specific",
-  "last_used_target_languages": [],
-  "default_target_language": "zh-cn",
+  "last_used_target_languages": [
+    "zh"
+  ],
+  "default_target_language": "zh",
   "filtered_services": [],
   "hotkeys": [
     {
@@ -558,6 +560,48 @@
         "zu"
       ],
       "version": "1.1.0"
+    },
+    "fanyi_baidu": {
+      "selected_languages": [
+        "zh-cn"
+      ],
+      "api_key": "k2diy2C9QsgfTySsUGL4",
+      "app_id": "20260502002605826",
+      "auto_translate": true,
+      "auto_translate_interval": 500,
+      "validated": true,
+      "available_languages": [
+        "ar",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lzh",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sl",
+        "sv",
+        "th",
+        "vi",
+        "yue",
+        "zh",
+        "zh-hant"
+      ],
+      "version": "1.0.0",
+      "premium": false
     }
   }
 }

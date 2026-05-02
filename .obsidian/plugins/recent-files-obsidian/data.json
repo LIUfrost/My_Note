@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "VGGnet",
-      "path": "2.杂记类/科学与社会/VGGnet.pdf"
+      "basename": "问题",
+      "path": "2.杂记类/科学与社会/问题.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "PDF-anno",
+      "path": "2.杂记类/科学与社会/PDF-anno.md"
     },
     {
       "basename": "ALexnet",
       "path": "2.杂记类/科学与社会/ALexnet.pdf"
     },
     {
-      "basename": "GIT通用开发流程",
-      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
+      "basename": "流程图",
+      "path": "2.杂记类/科学与社会/流程图.canvas"
+    },
+    {
+      "basename": "VGGnet",
+      "path": "2.杂记类/科学与社会/VGGnet.pdf"
+    },
+    {
+      "basename": "肺结节part技术发展脉络梳理",
+      "path": "2.杂记类/科学与社会/肺结节part技术发展脉络梳理.md"
+    },
+    {
+      "basename": "0.前言",
+      "path": "0.前言.md"
+    },
+    {
+      "basename": "算法时间表",
+      "path": "2.杂记类/科学与社会/算法时间表.png"
+    },
+    {
+      "basename": "编译原理与设计",
+      "path": "1.编程类/汇编(应竞赛需求)/编译原理与设计.md"
     },
     {
       "basename": "CS61A",
       "path": "1.编程类/Python/CS61A.md"
+    },
+    {
+      "basename": "GIT通用开发流程",
+      "path": "1.编程类/GIT简介/GIT通用开发流程.md"
     },
     {
       "basename": "数学分析B1",
@@ -103,10 +135,6 @@
     {
       "basename": "代数结构",
       "path": "3.数学类/代数结构.md"
-    },
-    {
-      "basename": "0.前言",
-      "path": "0.前言.md"
     },
     {
       "basename": "LightRoom",

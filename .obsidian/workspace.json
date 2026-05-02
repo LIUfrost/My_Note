@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "45643e051a37256b",
+        "id": "6f1a8be7cbca7d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3ba9234f719fb2",
+            "id": "9c61ab777b19e978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.杂记类/科学与社会/问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题"
+            }
+          },
+          {
+            "id": "d74969c4e0e6f501",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2.杂记类/科学与社会/VGGnet.pdf"
+                "file": "2.杂记类/科学与社会/ALexnet.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 709,
+                "zoom": 0.9923076923076923
               },
               "icon": "lucide-file-text",
-              "title": "VGGnet"
+              "title": "ALexnet"
+            }
+          },
+          {
+            "id": "a762e902b49a5549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.杂记类/科学与社会/问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 261.5
   },
   "right": {
     "id": "b42c4592c11f274d",
@@ -110,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.杂记类/typst入门.pdf",
+                "file": "2.杂记类/科学与社会/ALexnet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "typst入门 的反向链接列表"
+              "title": "ALexnet 的反向链接列表"
             }
           },
           {
@@ -129,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.杂记类/typst入门.pdf",
+                "file": "2.杂记类/科学与社会/ALexnet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "typst入门 的出链列表"
+              "title": "ALexnet 的出链列表"
             }
           },
           {
@@ -172,26 +205,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.杂记类/科学与社会/VGGnet.pdf",
+                "file": "2.杂记类/科学与社会/问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "VGGnet 的大纲"
+              "title": "问题 的大纲"
             }
           },
           {
-            "id": "aaf523b40213e0f7",
+            "id": "4848c0e6cc682b78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "5fab6cac84893092",
             "type": "leaf",
             "state": {
               "type": "translator-view",
               "state": {
-                "language_from": "zh",
+                "language_from": "auto",
                 "language_to": "zh",
-                "translation_service": "deepl",
-                "auto_translate": false,
-                "apply_glossary": false,
+                "translation_service": "fanyi_baidu",
+                "auto_translate": true,
+                "apply_glossary": true,
                 "view_mode": 2,
                 "filter_mode": 0,
                 "show_attribution": false,
@@ -210,29 +253,20 @@
                   "copy"
                 ]
               },
-              "icon": "deepl",
-              "title": "DeepL"
-            }
-          },
-          {
-            "id": "4848c0e6cc682b78",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "fanyi_baidu",
+              "title": "Fanyi Baidu"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -243,27 +277,39 @@
       "translate:Open translation view": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2e3ba9234f719fb2",
+  "active": "4848c0e6cc682b78",
   "lastOpenFiles": [
+    "未命名.md",
+    "2.杂记类/科学与社会/PDF-anno.md",
     "2.杂记类/科学与社会/ALexnet.pdf",
-    "1.编程类/GIT简介/GIT通用开发流程.md",
-    "1.编程类/Python/CS61A.md",
-    "2.杂记类/科学与社会/VGGnet.pdf",
     "2.杂记类/科学与社会/问题.md",
-    "2.杂记类/科学与社会/未命名.canvas",
-    "2.杂记类/科学与社会/算法时间表.png",
-    "2.杂记类/科学与社会/算法时间表.canvas",
+    "textgenerator/configs/llm/config_5-2170019.json.md",
+    "textgenerator/configs/llm",
+    "textgenerator/configs",
+    "textgenerator",
+    "未命名.base",
+    "2.杂记类/科学与社会/流程图.canvas",
+    "2.杂记类/科学与社会/VGGnet.pdf",
     "2.杂记类/科学与社会/肺结节part技术发展脉络梳理.md",
+    "0.前言.md",
+    "2.杂记类/科学与社会/算法时间表.png",
+    "1.编程类/汇编(应竞赛需求)/编译原理与设计.md",
+    "1.编程类/Python/CS61A.md",
+    "1.编程类/未命名.md",
+    "1.编程类/汇编(应竞赛需求)",
+    "1.编程类/GIT简介/GIT通用开发流程.md",
+    "2.杂记类/科学与社会/算法时间表.canvas",
     "2.杂记类/科学与社会",
     "2.杂记类/新建文件夹",
     "1.编程类/C语言/算法/BFS与DFS.md",
     "1.编程类/Python/菜鸟教程.md",
     "Excalidraw/Drawing 2026-04-16 16.06.32.excalidraw.md",
     "Excalidraw",
-    "2.杂记类/typst入门.pdf",
     "1.编程类/C语言/算法/背包问题.md",
     "1.编程类/C语言/库与库函数/C语言常用函数.md",
     "1.编程类/C语言/算法/algorithm by coursera II.md",
@@ -274,20 +320,10 @@
     "1.编程类/C语言/库与库函数/Cjson库.md",
     "1.编程类/C语言/算法/algorithm by coursera.md",
     "1.编程类/C语言/系统程序与调试/C语言文件调试.md",
-    "1.编程类/C语言/算法",
     "1.编程类/C语言/未命名.md",
     "1.编程类/C语言/系统程序与调试/GDB使用简略.md",
-    "1.编程类/C语言/系统程序与调试/系统程序设计.md",
-    "1.编程类/C语言/系统程序与调试",
-    "1.编程类/C语言/库与库函数/C语言常用函数.pdf",
-    "1.编程类/C语言/库与库函数/C语言文件操作.pdf",
-    "2.杂记类/Obisidian/Latex语法.md",
-    "1.编程类/C语言/库与库函数/位运算.md",
     "1.编程类/C语言/图片/链表_edit_225708402741596.jpg",
     "1.编程类/C语言/图片/cJSON库.png",
-    "3.数学类/数学分析B2.md",
-    "3.数学类/代数结构.md",
-    "1.编程类/C语言/算法.md",
     "1.编程类/C语言/图片/屏幕截图 2026-01-26 211445.png",
     "Pasted image 20260126211449.png",
     "1.编程类/GIT简介/Pasted image 20251214100239.png",
