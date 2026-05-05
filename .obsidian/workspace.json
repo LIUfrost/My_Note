@@ -4,55 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "6f1a8be7cbca7d0b",
+        "id": "96c5a6d35fd09002",
         "type": "tabs",
         "children": [
           {
-            "id": "9c61ab777b19e978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.杂记类/科学与社会/问题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "问题"
-            }
-          },
-          {
-            "id": "d74969c4e0e6f501",
+            "id": "09db750c6089bbaf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2.杂记类/科学与社会/ALexnet.pdf",
+                "file": "2.杂记类/科学与社会/GAN.pdf",
                 "page": 1,
-                "left": -15,
-                "top": 709,
-                "zoom": 0.9923076923076923
+                "left": -16,
+                "top": 634,
+                "zoom": 0.948529411764706
               },
               "icon": "lucide-file-text",
-              "title": "ALexnet"
+              "title": "GAN"
             }
           },
           {
-            "id": "a762e902b49a5549",
+            "id": "d8ec5960bca8865c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2.杂记类/科学与社会/问题.md",
-                "mode": "source",
-                "source": false
+                "file": "2.杂记类/科学与社会/ViT.pdf",
+                "page": 1,
+                "left": -268,
+                "top": 604,
+                "zoom": 0.8
               },
-              "icon": "lucide-file",
-              "title": "问题"
+              "icon": "lucide-file-text",
+              "title": "ViT"
+            }
+          },
+          {
+            "id": "2beedd2264d05bad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2.杂记类/科学与社会/ViT(Attention is all you need).pdf",
+                "page": 1,
+                "left": -268,
+                "top": 477,
+                "zoom": 0.8
+              },
+              "icon": "lucide-file-text",
+              "title": "ViT(Attention is all you need)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "b42c4592c11f274d",
@@ -284,32 +288,32 @@
   },
   "active": "4848c0e6cc682b78",
   "lastOpenFiles": [
-    "未命名.md",
+    "2.杂记类/科学与社会/ViT.pdf",
+    "2.杂记类/科学与社会/ViT(Attention is all you need).pdf",
     "2.杂记类/科学与社会/PDF-anno.md",
+    "2.杂记类/科学与社会/VGGnet.pdf",
+    "2.杂记类/科学与社会/GAN1.pdf",
+    "2.杂记类/科学与社会/GAN.pdf",
+    "2.杂记类/科学与社会/算法时间表.canvas",
+    "2.杂记类/科学与社会/U-net.pdf",
+    "2.杂记类/科学与社会/Resnet.pdf",
     "2.杂记类/科学与社会/ALexnet.pdf",
     "2.杂记类/科学与社会/问题.md",
+    "未命名.md",
     "textgenerator/configs/llm/config_5-2170019.json.md",
     "textgenerator/configs/llm",
     "textgenerator/configs",
-    "textgenerator",
-    "未命名.base",
     "2.杂记类/科学与社会/流程图.canvas",
-    "2.杂记类/科学与社会/VGGnet.pdf",
     "2.杂记类/科学与社会/肺结节part技术发展脉络梳理.md",
     "0.前言.md",
     "2.杂记类/科学与社会/算法时间表.png",
     "1.编程类/汇编(应竞赛需求)/编译原理与设计.md",
     "1.编程类/Python/CS61A.md",
     "1.编程类/未命名.md",
-    "1.编程类/汇编(应竞赛需求)",
     "1.编程类/GIT简介/GIT通用开发流程.md",
-    "2.杂记类/科学与社会/算法时间表.canvas",
-    "2.杂记类/科学与社会",
-    "2.杂记类/新建文件夹",
     "1.编程类/C语言/算法/BFS与DFS.md",
     "1.编程类/Python/菜鸟教程.md",
     "Excalidraw/Drawing 2026-04-16 16.06.32.excalidraw.md",
-    "Excalidraw",
     "1.编程类/C语言/算法/背包问题.md",
     "1.编程类/C语言/库与库函数/C语言常用函数.md",
     "1.编程类/C语言/算法/algorithm by coursera II.md",

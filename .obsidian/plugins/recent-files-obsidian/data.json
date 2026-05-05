@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "GAN",
+      "path": "2.杂记类/科学与社会/GAN.pdf"
+    },
+    {
+      "basename": "ViT",
+      "path": "2.杂记类/科学与社会/ViT.pdf"
+    },
+    {
+      "basename": "ViT(Attention is all you need)",
+      "path": "2.杂记类/科学与社会/ViT(Attention is all you need).pdf"
+    },
+    {
+      "basename": "PDF-anno",
+      "path": "2.杂记类/科学与社会/PDF-anno.md"
+    },
+    {
+      "basename": "VGGnet",
+      "path": "2.杂记类/科学与社会/VGGnet.pdf"
+    },
+    {
+      "basename": "GAN1",
+      "path": "2.杂记类/科学与社会/GAN1.pdf"
+    },
+    {
+      "basename": "算法时间表",
+      "path": "2.杂记类/科学与社会/算法时间表.canvas"
+    },
+    {
+      "basename": "U-net",
+      "path": "2.杂记类/科学与社会/U-net.pdf"
+    },
+    {
+      "basename": "Resnet",
+      "path": "2.杂记类/科学与社会/Resnet.pdf"
+    },
+    {
+      "basename": "ALexnet",
+      "path": "2.杂记类/科学与社会/ALexnet.pdf"
+    },
+    {
       "basename": "问题",
       "path": "2.杂记类/科学与社会/问题.md"
     },
@@ -9,20 +49,8 @@
       "path": "未命名.md"
     },
     {
-      "basename": "PDF-anno",
-      "path": "2.杂记类/科学与社会/PDF-anno.md"
-    },
-    {
-      "basename": "ALexnet",
-      "path": "2.杂记类/科学与社会/ALexnet.pdf"
-    },
-    {
       "basename": "流程图",
       "path": "2.杂记类/科学与社会/流程图.canvas"
-    },
-    {
-      "basename": "VGGnet",
-      "path": "2.杂记类/科学与社会/VGGnet.pdf"
     },
     {
       "basename": "肺结节part技术发展脉络梳理",
@@ -171,18 +199,6 @@
     {
       "basename": "Git 查看提交历史",
       "path": "1.编程类/GIT简介/GIT操作指南/Git 查看提交历史.md"
-    },
-    {
-      "basename": "Git 标签",
-      "path": "1.编程类/GIT简介/GIT操作指南/Git 标签.md"
-    },
-    {
-      "basename": "Pasted image 20251214100239",
-      "path": "1.编程类/GIT简介/Pasted image 20251214100239.png"
-    },
-    {
-      "basename": "Pasted image 20251214095833",
-      "path": "1.编程类/GIT简介/Pasted image 20251214095833.png"
     }
   ],
   "omittedPaths": [],
